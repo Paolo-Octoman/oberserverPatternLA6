@@ -23,3 +23,4 @@
 - Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
 
 ## UML
+<img width="758" height="609" alt="image" src="https://github.com/user-attachments/assets/5c727aa1-d8d0-406f-b571-0a4c9d9a4f44" />
